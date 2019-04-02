@@ -1,3 +1,5 @@
-f)
+				Respuestas
 - No se puede ver el archivo tp2_1_2.cpp
 - El archivo fue cargado en la otra rama o sea el branch Opcion_2. Al encontrarme en la rama principara "el branch master" no ve lo realizado en la otra rama. 
+
+- Cuando ejecutamos el comando gitk --all muestra el historial de los cambios que realizo en el repositorio. No hay diferencia hacerlo en el master o elegir algunos de los branch ya que el comando "-all" muestra el los cambios y caminos de todo el repositorio
